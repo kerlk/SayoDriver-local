@@ -13,7 +13,7 @@ git clone https://github.com/kerlk/SayoDriver-local.git
 cd SayoDriver-local
 
 # Start HTTP server (Python 3)
-python -m http.server 8000
+python -m http.server -b 127.0.0.1 8000
 ```
 
 ## Usage
