@@ -1,7 +1,7 @@
 
 # SayoDriver-local
 
-Portable version of SayoDevice (official website).
+Portable version of SayoDevice official website.
 
 ## Start
 
