@@ -3,7 +3,7 @@
 
 Portable version of SayoDevice (official website).
 
-## 🚀 Quick Start
+## Start
 
 ```bash
 # Clone the repository
@@ -16,7 +16,7 @@ cd SayoDriver-local
 python -m http.server 8000 #you can use any port
 ```
 
-## 💻 Usage
+## Usage
 
 After starting the server, open your browser and navigate to:
 ```
@@ -24,12 +24,12 @@ http://localhost:8000
 ```
 
 
-## ⚠️ Notes
+## Notes
 
 For Python 2.x (legacy), use: `python -m SimpleHTTPServer 8000`
 Press `Ctrl+C` to stop the server
 
-## 🔗 Links
+## Links
 
 - [Official SayoDevice Website](https://sayodevice.com/)
 - [Original Repository](https://github.com/kerlk/SayoDriver-local)
