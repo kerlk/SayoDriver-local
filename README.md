@@ -23,7 +23,6 @@ After starting the server, open your browser and navigate to:
 http://localhost:8000
 ```
 
-
 ## Notes
 
 - For Python 2.x (legacy), use: `python -m SimpleHTTPServer 8000`
@@ -34,3 +33,6 @@ http://localhost:8000
 - [Official SayoDevice Website](https://sayodevice.com/)
 - [Original Repository](https://github.com/kerlk/SayoDriver-local)
 ```
+
+##P.S.
+Why did i do this? Because the Sayodevice website sometimes simply refuses to load for me without a VPN; the page takes over a minute to load. But everyone will find their use. I also installed all the firmware locally for all Sayodevice devices, and updating them won't require internet access.
