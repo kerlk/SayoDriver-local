@@ -26,8 +26,8 @@ http://localhost:8000
 
 ## Notes
 
-For Python 2.x (legacy), use: `python -m SimpleHTTPServer 8000`
-Press `Ctrl+C` to stop the server
+- For Python 2.x (legacy), use: `python -m SimpleHTTPServer 8000`
+- Press `Ctrl+C` to stop the server
 
 ## Links
 
